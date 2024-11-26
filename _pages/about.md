@@ -12,24 +12,21 @@ I am currently a third-year master's student at the [Knowledge Engineering Group
 I am currently in the process of applying for Ph.D. programs for Fall 2025, with the focus described below:
 
 Research
-======
-
+------
 My research aims to integrate foundation models to address key challenges in systems, with a particular focus on cross-disciplinary or interdisciplinary applications.
 
-Publications
-------
+### Publications
 - **Hanming Li**, Jifan Yu, Ruimiao Li, Zhanxin Hao, Yan Xuan, Jiaxi Yuan, Bin Xu, Juanzi Li, Zhiyuan Liu. LM-Interview: An Easy-to-use Smart Interviewer System via Knowledge-guided Language Model Exploitation. EMNLP 2024. [[PDF]](https://aclanthology.org/2024.emnlp-demo.52.pdf)
 - Jifan Yu\*, **Hanming Li**\*, Gan Luo, Yankai Lin, Peng Li, Jianjun Xu, Lei Hou, Bin Xu. Exploring the Effectiveness of Student Behavior in Prerequisite Relation Discovery for Concepts. APWeb-WAIM 2023. [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-2421-5_24)
 
-Projects
-------
+### Projects
 - [KG Editor](https://www.kgeditor.cn/): An LLM-based system for building Knowledge Graph from documents
 - [MAIC](https://project.maic.chat/): A platform for interactive online classrooms powered by multiple LLM agents
 
 Beyond the Research
-======
-### Curiosity
+------
 
+### Curiosity
 In my spare time, I actively explore emerging areas like Web3 from the perspective of computer science to foster my skills and push my boundary of knowledge.
 
 ### Service
