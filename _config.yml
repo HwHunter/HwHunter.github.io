@@ -21,8 +21,8 @@ repository               : "HwHunter/HwHunter.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
-  name             : "Hanming Li"
+  avatar           : "photo_large.png"
+  name             : "Hanming Li (李瀚明)"
   pronouns         : # example: "she/her"  
   bio              : "Master's Student at Tsinghua University, Knowledge Engineering Group"
   location         : "Beijing, China"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+#  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
