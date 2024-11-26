@@ -23,6 +23,9 @@ My research aims to integrate foundation models to address key challenges in sys
 - [KG Editor](https://www.kgeditor.cn/): An LLM-based system for building Knowledge Graph from documents
 - [MAIC](https://project.maic.chat/): A platform for interactive online classrooms powered by multiple LLM agents
 
+### Patents
+- A pending patent concerning data processing with LLM in interview system, which is provisionally approved.
+
 Beyond the Research
 ------
 
