@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year master's student at the Knowledge Engineering Group (KEG) in the Department of Computer Science at Tsinghua University, under the guidance of Professor Bin Xu. Prior to this, I completed my undergraduate studies at Xinya College at Tsinghua University, where I received not only a solid fundation in computer science but also a comprehensive liberal arts education. I am currently in the process of applying for Ph.D. programs for Fall 2025, with the focus described below:
+I am currently a third-year master's student at the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/) in the Department of Computer Science at Tsinghua University, under the guidance of [Professor Bin Xu](https://scholar.google.com/citations?hl=en&user=eV_MEVYAAAAJ). Prior to this, I completed my undergraduate studies at [Xinya College](https://www.xyc.tsinghua.edu.cn/en/) at Tsinghua University, where I received not only a solid fundation in computer science but also a comprehensive liberal arts education. I am currently in the process of applying for Ph.D. programs for Fall 2025, with the focus described below:
 
 Research
 ======
@@ -26,19 +26,14 @@ Projects
 
 Beyond the Research
 ======
-
-Curiosity
-------
+### Curiosity
 
 In my spare time, I actively explore emerging areas like Web3 from the perspective of computer science to foster my skills and push my boundary of knowledge.
 
-Service
-------
-
+### Service
 *"I'm so lucky to have such a patient TA!!! — A student from the Programming Training 2023"*
 
 Despite the demands of my master's study, I make sure to give back to the community. I'm proud to join the [Coding Girls x Hello World](https://codinggirls.cn/en/) project to promote equality in the tech industry.
 
-Enthusiasm
-------
-To keep it short, I excel at soccer and singing, and actively taking on leadership roles within my activities. Last year, I led my team to win the Zhipu Cup 2023 as captain and received the FMVP award.
+### Enthusiasm
+To keep it short, I excel at soccer and singing, and actively take on leadership roles within my activities. Last year, I led my team to win the Zhipu Cup 2023 as captain and received the FMVP award.
