@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a third-year master's student at the [Knowledge Engineering Group (KEG)](https://keg.cs.tsinghua.edu.cn/) in the Department of Computer Science at Tsinghua University, under the guidance of [Professor Bin Xu](https://scholar.google.com/citations?hl=en&user=eV_MEVYAAAAJ). Prior to this, I completed my undergraduate studies at [Xinya College](https://www.xyc.tsinghua.edu.cn/en/) at Tsinghua University, where I received not only a solid fundation in computer science but also a comprehensive liberal arts education.
 
-I am currently in the process of applying for Ph.D. programs for Fall 2025, with the focus described below:
+I am currently in the process of applying for Ph.D. programs for Fall 2025, with the research focus described below:
 
 Research
 ------
