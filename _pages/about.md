@@ -29,13 +29,17 @@ My research aims to integrate foundation models to address key challenges in sys
 Beyond the Research
 ------
 
-### Curiosity
+**Curiosity**
+
 In my spare time, I actively explore emerging areas like Web3 from the perspective of computer science to foster my skills and push my boundary of knowledge.
 
-### Service
+**Service**
+
 *"I'm so lucky to have such a patient TA!!! — A student from the Programming Training 2023"*
 
 Despite the demands of my master's study, I make sure to give back to the community. I'm proud to join the [Coding Girls x Hello World](https://codinggirls.cn/en/) project to promote equality in the tech industry.
 
-### Enthusiasm
+**Enthusiasm**
+
+
 To keep it short, I excel at soccer and singing, and actively take on leadership roles within my activities. Last year, I led my team to win the Zhipu Cup 2023 as captain and received the FMVP award.
