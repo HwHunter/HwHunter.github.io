@@ -26,6 +26,12 @@ My research aims to integrate foundation models to address key challenges in sys
 ### Patents
 - A pending patent concerning data processing with LLM in interview system, which is provisionally approved.
 
+Awards / Honors
+------
+- **[2024]Huiyan Talent Scholarship.** Scholarship for graduate students with outstanding performance in academics.
+- **[2023]First Place in First Prize Category** in Chinese National College Students' Academic Competition, also known as the scientific "Olympics" for college students.
+- **[2020]Excellence Scholarship of Tsinghua University.** Academic Improvement Award; Athletic Excellence Award.
+
 Beyond the Research
 ------
 
